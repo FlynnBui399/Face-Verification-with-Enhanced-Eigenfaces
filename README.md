@@ -119,12 +119,6 @@ python run_ablation_extra.py
 - **5.2** Multi-scale: [80], [80, 40], [80, 40, 20].
 - Writes `results/tables/ablation_5_1_*.csv`, `ablation_5_2_*.csv` and figures.
 
-### Google Colab
-
-- Upload project (e.g. from Drive) and open `Enhanced_Eigenfaces_Colab.ipynb`.
-- Runtime → Change runtime type → GPU (T4).
-- Run cells in order; config is set for 80×80, 80K samples, 300 components.
-
 ---
 
 ## Results (example)
