@@ -1,0 +1,74 @@
+# =============================================================================
+# Enhanced Eigenfaces - Git ignore
+# =============================================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---- Virtual env / Conda ----
+.venv/
+venv/
+ENV/
+.conda/
+env/
+
+# ---- IDE / Editor ----
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- Dataset (LỚN, không đẩy lên GitHub) ----
+# Bỏ qua mọi file trong dataset/, chỉ giữ dataset/README.md
+dataset/*
+!dataset/README.md
+
+# ---- Model đã train (nặng ~30–50 MB, tải riêng hoặc train lại) ----
+results/trained_models.npz
+*.npz
+
+# ---- Output tùy chọn (có thể bỏ ignore nếu muốn đẩy ảnh kết quả) ----
+# results/figures/
+# results/tables/
+# Mặc định GIỮ results/figures và results/tables để có bảng/ảnh mẫu trong repo
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Log / temp ----
+*.log
+*.tmp
+.cache/
+
+# ---- Test ảnh cá nhân (tùy chọn) ----
+# test_demo_img/
+# assets/
