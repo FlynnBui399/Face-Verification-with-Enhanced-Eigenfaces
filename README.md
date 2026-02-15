@@ -57,7 +57,6 @@ PRJ_MAAI/
 
 ```bash
 git clone https://github.com/FlynnBui399/Face-Verification-with-Enhanced-Eigenfaces.git
-cd PRJ_MAAI
 pip install -r requirements.txt
 ```
 
