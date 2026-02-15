@@ -7,8 +7,8 @@ Classical Eigenfaces improved with multi-scale features, illumination normalizat
 
 ## Contributors
 
-- [*Bùi Trần Tấn Phát*](https://github.com/FlynnBui399) — *University of Technology and Engineering* 
-- [*Nguyễn Nhật Phát*](https://github.com/PhoenixEvo) — *University of Technology and Engineering* 
+- [*Bùi Trần Tấn Phát*](https://github.com/FlynnBui399) — *Ho Chi Minh City University of Technology and Engineering - HCMUTE* 
+- [*Nguyễn Nhật Phát*](https://github.com/PhoenixEvo) — * Ho Chi Minh City University of Technology and Engineering - HCMUTE* 
 
 ---
 
