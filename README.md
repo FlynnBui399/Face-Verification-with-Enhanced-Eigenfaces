@@ -49,7 +49,7 @@ PRJ_MAAI/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PRJ_MAAI.git
+git clone https://github.com/FlynnBui399/Face-Verification-with-Enhanced-Eigenfaces.git
 cd PRJ_MAAI
 pip install -r requirements.txt
 ```
@@ -62,7 +62,7 @@ pip install cupy-cuda12x   # requires CUDA Toolkit
 
 ### 2. Dataset
 
-Datasets are **not** included in the repo (large size). You can download it at: **https://www.kaggle.com/datasets/debarghamitraroy/casia-webface** You need:
+Datasets are **not** included in the repo (large size). You can download it at: https://www.kaggle.com/datasets/debarghamitraroy/casia-webface You need:
 
 | Data        | Path under `dataset/`     | Description                    |
 |-------------|---------------------------|--------------------------------|
